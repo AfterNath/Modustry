@@ -1,0 +1,6 @@
+name: "[#999900]Magic workbench [#ff0000][AFTERNATH.LIB]"
+alwaysUnlocked:true
+category:effect
+requirements:[
+copper/0
+]

@@ -1,0 +1,6 @@
+name: "[#999900]Skip wave [#ff0000][AFTERNATH.LIB]"
+alwaysUnlocked:true
+category: effect
+requirements:[
+copper/0
+]
